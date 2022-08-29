@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Composition.Entities.Enums {
     public enum WorkerLevel : int {
         Junior = 0,
-        MidLevel = 1,
+        Pleno = 1,
         Senior = 2
     }
 }
